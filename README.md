@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rudra%20Patel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-patel)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rudra%20Patel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudrapatell26/)
   [![Email](https://img.shields.io/badge/Email-patel.rudra%40ufl.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patel.rudra@ufl.edu)
   [![Location](https://img.shields.io/badge/Location-Gainesville%2C%20FL-00C853?style=for-the-badge&logo=google-maps&logoColor=white)](#)
   [![Phone](https://img.shields.io/badge/Phone-%2B1%20(352)%20757--9258-4285F4?style=for-the-badge&logo=phone&logoColor=white)](#)
